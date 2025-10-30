@@ -1,100 +1,119 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:483D8B,50:8A2BE2,100:00CED1&height=180&section=header&text=MechaPhantom's%20Control%20Core%20⚙️&fontSize=46&fontAlignY=50&fontColor=E0FFFF" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:C71585,100:000000&height=180&section=header&text=MechaPhantom1's%20Spectral%20Core%20⚙️&fontSize=48&fontAlignY=50&fontColor=FFFFFF" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&duration=3000&pause=700&color=00CED1&center=true&width=600&lines=Autonomous.+Adaptive.+Alive." alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&duration=3000&pause=700&color=C71585&center=true&width=600&lines=Assemble.+Adapt.+Ascend." alt="Typing Animation" />
 </p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,go,react,nextjs,nodejs,linux,docker,git" height="60"/>
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,react,nextjs,go,docker,linux,git,ai" height="60"/>
 </div>
 
 <div align="center">
-  <b><i>"Silent mechanisms, infinite precision."</i></b>
+  <b><i>“Where machine precision meets phantom agility.”</i></b>
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:C71585,100:8B0000&height=100&section=header" width="100%" />
+</p>
 
 ---
 
 ## ⚙️ About Me
 
 <div align="center">
-  Hello! I'm <strong>MechaPhantom</strong>.<br/>
-  A cybernetic developer fueled by logic and automation.  
-  I design systems that merge code and intelligence — building frameworks that think, adapt, and evolve with each iteration.  
-  Behind every silent execution lies a phantom of engineering precision.
+  Hello! I'm <strong>MechaPhantom1</strong>.<br/>
+  A cybernetic engineer at heart — merging mechanical logic with ethereal finesse.<br/>
+  My code exists in the realm between precision and creativity — built for adaptability and control.<br/>
+  Every project I forge carries the balance of machine strength and spectral flow.<br/>
+  <br/>
+  ⚙️ Mecha Architect | 👻 Phantom Coder | 🔩 Automation Enthusiast
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:C71585,100:000000&height=100&section=footer" width="100%" />
+</p>
 
 ---
 
-## 🧠 Most Used Languages (Manual Breakdown)
+## 🔧 Programmer Activity
 
-| Language | Usage | Visual |
-|:----------|:-------|:--------|
-| 🐍 **Python** | 35% | ████████████████████░░░░░░░░░ |
-| ⚡ **JavaScript** | 25% | ███████████████░░░░░░░░░░░░░ |
-| 💠 **TypeScript** | 20% | ████████████░░░░░░░░░░░░░░░ |
-| 🧱 **Go** | 10% | █████░░░░░░░░░░░░░░░░░░░░░░ |
-| 🔩 **Others** | 10% | █████░░░░░░░░░░░░░░░░░░░░░░ |
+<p align="center">
+  <img src="https://img.shields.io/badge/Mecha%20Architect-8B0000?style=for-the-badge&logo=robot&logoColor=C71585" />
+  <img src="https://img.shields.io/badge/Cyber%20System%20Engineer-C71585?style=for-the-badge&logo=python&logoColor=8B0000" />
+  <img src="https://img.shields.io/badge/Phantom%20AI%20Developer-000000?style=for-the-badge&logo=react&logoColor=FFFFFF" />
+</p>
 
-<p align="center"><i>Lines of logic, assembled with mechanical grace.</i></p>
+<p align="center">
+  <i>“Forged in logic. Driven by the unseen. Perfected by design.”</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:C71585,100:8B0000&height=100&section=footer" width="100%" />
+</p>
+
+---
+
+## 🧩 Tech Arsenal
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-8B0000?style=for-the-badge&logo=python&logoColor=C71585"/>
+  <img src="https://img.shields.io/badge/-JavaScript-C71585?style=for-the-badge&logo=javascript&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=cplusplus&logoColor=8B0000"/>
+  <img src="https://img.shields.io/badge/-React-C71585?style=for-the-badge&logo=react&logoColor=8B0000"/>
+  <img src="https://img.shields.io/badge/-Go-8B0000?style=for-the-badge&logo=go&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=C71585"/>
+  <img src="https://img.shields.io/badge/-Docker-C71585?style=for-the-badge&logo=docker&logoColor=8B0000"/>
+  <img src="https://img.shields.io/badge/-Linux-8B0000?style=for-the-badge&logo=linux&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-AI%20Frameworks-000000?style=for-the-badge&logo=tensorflow&logoColor=C71585"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:C71585,100:000000&height=100&section=footer" width="100%" />
+</p>
 
 ---
 
 ## 📊 My GitHub in Numbers
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MechaPhantom&show_icons=true&theme=tokyonight&hide_border=true&title_color=8A2BE2&icon_color=00CED1&text_color=E0FFFF&border_color=483D8B&cache_seconds=3600" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MechaPhantom&theme=tokyonight&hide_border=true&border_color=00CED1" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MechaPhantom1&show_icons=true&theme=dracula&hide_border=true&title_color=C71585&icon_color=8B0000&text_color=CCCCCC&border_color=000000&cache_seconds=3600" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MechaPhantom1&theme=dracula&hide_border=true&border_color=8B0000&background=000000&ring=C71585&fire=8B0000&currStreakLabel=CCCCCC&cache_buster=20251029_2" height="165"/>
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/MechaPhantom?label=Total%20Stars&logo=github&color=8A2BE2&style=for-the-badge"/>
-</p>
+---
+
+## ⚙️ Most Used Languages (Manual Breakdown)
+
+| Language | Usage | Visual |
+|:----------|:-------|:--------|
+| ⚙️ **C++** | 35% | ██████████████████████████░░░░░ |
+| 🐍 **Python** | 30% | ██████████████████████░░░░░░░░ |
+| ⚡ **JavaScript** | 20% | ███████████████░░░░░░░░░░░░░░ |
+| 💾 **Go** | 10% | █████░░░░░░░░░░░░░░░░░░░░░░░ |
+| 🧩 **Others** | 5% | ██░░░░░░░░░░░░░░░░░░░░░░░░░ |
+
+<p align="center"><i>Mechanical code. Phantom flow. Unified creation.</i></p>
 
 ---
 
 ## 🏆 My GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=MechaPhantom&theme=tokyonight&no-bg=true&margin-w=8&margin-h=8&no-frame=false"/>
+<img src="https://github-profile-trophy.vercel.app?username=MechaPhantom1&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&cache_buster=20251029_2"/>
 </div>
 
----
-
-## 🛠️ Tech Arsenal
-
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-8A2BE2?style=for-the-badge&logo=python&logoColor=E0FFFF"/>
-  <img src="https://img.shields.io/badge/-JavaScript-00CED1?style=for-the-badge&logo=javascript&logoColor=483D8B"/>
-  <img src="https://img.shields.io/badge/-TypeScript-483D8B?style=for-the-badge&logo=typescript&logoColor=E0FFFF"/>
-  <img src="https://img.shields.io/badge/-Go-00CED1?style=for-the-badge&logo=go&logoColor=8A2BE2"/>
-  <img src="https://img.shields.io/badge/-Node.js-8A2BE2?style=for-the-badge&logo=node.js&logoColor=E0FFFF"/>
-  <img src="https://img.shields.io/badge/-React-00CED1?style=for-the-badge&logo=react&logoColor=8A2BE2"/>
-  <img src="https://img.shields.io/badge/-Next.js-483D8B?style=for-the-badge&logo=next.js&logoColor=E0FFFF"/>
-  <img src="https://img.shields.io/badge/-Docker-8A2BE2?style=for-the-badge&logo=docker&logoColor=E0FFFF"/>
-  <img src="https://img.shields.io/badge/-Linux-00CED1?style=for-the-badge&logo=linux&logoColor=8A2BE2"/>
-</p>
-
----
-
-## 📈 Visual Breakdown
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=MechaPhantom&theme=react-dark&bg_color=0D1117&color=8A2BE2&line=00CED1&point=E0FFFF&hide_border=true" width="95%" alt="Activity Graph"/>
-</p>
-
----
-
-## 💬 Quote of the Core
-
-<p align="center">
-  <i>"Every machine dreams of perfection — I just write the code to reach it."</i><br/>
-  <b>- MechaPhantom</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:C71585,100:000000&height=80&section=footer" width="100%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:483D8B,50:8A2BE2,100:00CED1&height=150&section=footer&fontColor=E0FFFF&text=System%20Stable%20-%20Phantom%20Online%20💠&fontSize=26" width="100%" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:C71585,100:000000&height=150&section=footer&fontColor=fff&text=Forge%20The%20Machine.%20Unleash%20The%20Phantom.%20⚙️&fontSize=30" width="100%" alt="footer"/>
+  <br/>
+  <blockquote>
+    <p><strong>“Precision is power — but adaptability is evolution.”</strong></p>
+  </blockquote>
 </p>
