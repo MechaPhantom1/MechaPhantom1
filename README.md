@@ -78,6 +78,23 @@
 
 ---
 
+## 📈 Visual Breakdown
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=MechaPhantom&theme=react-dark&bg_color=0D1117&color=8A2BE2&line=00CED1&point=E0FFFF&hide_border=true" width="95%" alt="Activity Graph"/>
+</p>
+
+---
+
+## 💬 Quote of the Core
+
+<p align="center">
+  <i>"Every machine dreams of perfection — I just write the code to reach it."</i><br/>
+  <b>- MechaPhantom</b>
+</p>
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:483D8B,50:8A2BE2,100:00CED1&height=150&section=footer&fontColor=E0FFFF&text=System%20Stable%20-%20Phantom%20Online%20💠&fontSize=26" width="100%" alt="footer"/>
 </p>
